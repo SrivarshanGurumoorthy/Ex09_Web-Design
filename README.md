@@ -120,16 +120,6 @@ header {
   padding: 20px;
 }
 
-h1 {
-  margin: 0;
-}
-section {
-  padding: 20px;
-}
-
-h2 {
-  color: #333;
-}
 
 
 footer {
